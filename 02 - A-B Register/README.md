@@ -4,5 +4,8 @@
 - Manipulating bits on bus
 - Transfering data from bus to B register
 
-https://github.com/BorisKlco/breadboard.8bitComputer/assets/122160506/a147e725-09e6-4c22-9d4b-031acd437911
+https://github.com/BorisKlco/breadboard.8bitComputer/assets/122160506/ddb931da-b6d5-46f9-bc13-855df7c86660
+
+
+
 

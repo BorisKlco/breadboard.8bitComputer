@@ -7,5 +7,7 @@
 - Add A register to B register
 - ...
 
+https://github.com/BorisKlco/breadboard.8bitComputer/assets/122160506/8c451650-9144-46ae-9633-b0de5f4c6e92
+
 
 

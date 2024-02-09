@@ -1,9 +1,15 @@
 # breadboard.8bitComputer
 Building an 8bit computer
 
-https://github.com/BorisKlco/breadboard.8bitComputer/assets/122160506/6e5a0040-e894-4218-9873-c749c1f64822
+## Parts
+- W65C02S8P-10
+- 6522(VIA)
+- AT28C256
+- HM62256BLP-7
+- MCO-1510A 1Mhz Oscillator
+- 1602A Display
 
 
 ## Sources
-- Digital Computer Electronics - Albert Paul Malvino
 - Youtube @BenEater
+- Digital Computer Electronics - Albert Paul Malvino
